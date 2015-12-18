@@ -10,7 +10,7 @@
 * PlugIns: [New reCAPTCHA](http://fluxbb.org/resources/mods/new-recaptcha/)
   * Version: 1.0.1
 * Restrictions:
-  * Index > onc-development > general discussion = members only
+  * only registered users have the right to post
 * Admins:
   * [Dirk--](https://github.com/Dirk--)
   * [Malcolm](https://github.com/malcolmh)
